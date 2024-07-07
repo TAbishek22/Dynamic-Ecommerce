@@ -13,11 +13,8 @@ Multivendor MERN-Stack is an ecommerce web application
 ![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 ![chart-js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)&nbsp;
 ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
-<img src="https://logos-download.com/wp-content/uploads/2020/07/Cloudinary_Logo.png" height="30px" alt="Cloudinary">
 <img src="https://velog.velcdn.com/images%2Fjch9537%2Fpost%2F7f031d06-1270-43ed-a097-f177caef37ba%2Fimage.png" height="28px" width="90px" alt="Node Mailer">
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)&nbsp;
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## Features
 
